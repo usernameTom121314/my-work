@@ -72,8 +72,8 @@ body {
 
 
 .btn-success:hover{
-background-color: var(--primary-title-color);
-    border-color: var(--primary-title-color);
+background-color: #00000;
+    border-color:#00000 ;
 }
 
 .header__tel::before {
