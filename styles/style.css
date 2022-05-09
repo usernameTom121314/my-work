@@ -70,6 +70,12 @@ body {
   text-shadow: 0 0 10px var(--primary-text-color);
 }
 
+
+.btn-success:hover{
+background-color: var(--primary-title-color);
+    border-color: var(--primary-title-color);
+}
+
 .header__tel::before {
   content: '\f87b';
   font-weight: 300;
