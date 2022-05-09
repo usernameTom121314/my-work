@@ -71,10 +71,6 @@ body {
 }
 
 
-.btn-success:hover{
-background-color: #00000;
-    border-color:#00000 ;
-}
 
 .header__tel::before {
   content: '\f87b';
